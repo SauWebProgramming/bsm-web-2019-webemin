@@ -23,6 +23,20 @@ namespace ogrenciyimProje.Controllers
             return View();
         }
 
+        public IActionResult SoruSayfasi()
+        {
+            return View();
+        }
+
+        public IActionResult Odevler()
+        {
+            return View();
+        }
+
+        public IActionResult Hakkinda()
+        {
+            return View();
+        }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
