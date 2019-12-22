@@ -132,7 +132,6 @@ C:\Emin\Uygulama\ASP .NET Core\Odevler\ogrenciyimProje\ogrenciyimProje\bin\Debug
 C:\Emin\Uygulama\ASP .NET Core\Odevler\ogrenciyimProje\ogrenciyimProje\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Emin\Uygulama\ASP .NET Core\Odevler\ogrenciyimProje\ogrenciyimProje\obj\Debug\netcoreapp3.0\ogrenciyimProje.MvcApplicationPartsAssemblyInfo.cs
 C:\Emin\Uygulama\ASP .NET Core\Odevler\ogrenciyimProje\ogrenciyimProje\obj\Debug\netcoreapp3.0\ogrenciyimProje.MvcApplicationPartsAssemblyInfo.cache
-C:\Emin\Uygulama\ASP .NET Core\Odevler\ogrenciyimProje\ogrenciyimProje\obj\Debug\netcoreapp3.0\Razor\Views\Home\SoruSayfasi.cshtml.g.cs
 C:\Emin\Uygulama\ASP .NET Core\Odevler\ogrenciyimProje\ogrenciyimProje\obj\Debug\netcoreapp3.0\Razor\Views\Home\Odevler.cshtml.g.cs
 C:\Emin\Uygulama\ASP .NET Core\Odevler\ogrenciyimProje\ogrenciyimProje\obj\Debug\netcoreapp3.0\Razor\Views\Home\Hakkinda.cshtml.g.cs
 C:\Emin\Uygulama\ASP .NET Core\Odevler\ogrenciyimProje\ogrenciyimProje\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs

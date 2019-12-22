@@ -23,11 +23,6 @@ namespace ogrenciyimProje.Controllers
             return View();
         }
 
-        public IActionResult SoruSayfasi()
-        {
-            return View();
-        }
-
         public IActionResult Odevler()
         {
             return View();
