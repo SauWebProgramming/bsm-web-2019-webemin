@@ -23,11 +23,6 @@ namespace ogrenciyimProje.Controllers
             return View();
         }
 
-        public IActionResult Odevler()
-        {
-            return View();
-        }
-
         public IActionResult Hakkinda()
         {
             return View();
