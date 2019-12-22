@@ -174,3 +174,8 @@ C:\Emin\Uygulama\ASP .NET Core\Odevler\ogrenciyimProje\ogrenciyimProje\obj\Debug
 C:\Emin\Uygulama\ASP .NET Core\Odevler\ogrenciyimProje\ogrenciyimProje\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
 C:\Emin\Uygulama\ASP .NET Core\Odevler\ogrenciyimProje\ogrenciyimProje\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
 C:\Emin\Uygulama\ASP .NET Core\Odevler\ogrenciyimProje\ogrenciyimProje\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Emin\Uygulama\ASP .NET Core\Odevler\ogrenciyimProje\ogrenciyimProje\obj\Debug\netcoreapp3.0\Razor\Views\Sorulars\Create.cshtml.g.cs
+C:\Emin\Uygulama\ASP .NET Core\Odevler\ogrenciyimProje\ogrenciyimProje\obj\Debug\netcoreapp3.0\Razor\Views\Sorulars\Delete.cshtml.g.cs
+C:\Emin\Uygulama\ASP .NET Core\Odevler\ogrenciyimProje\ogrenciyimProje\obj\Debug\netcoreapp3.0\Razor\Views\Sorulars\Details.cshtml.g.cs
+C:\Emin\Uygulama\ASP .NET Core\Odevler\ogrenciyimProje\ogrenciyimProje\obj\Debug\netcoreapp3.0\Razor\Views\Sorulars\Edit.cshtml.g.cs
+C:\Emin\Uygulama\ASP .NET Core\Odevler\ogrenciyimProje\ogrenciyimProje\obj\Debug\netcoreapp3.0\Razor\Views\Sorulars\Index.cshtml.g.cs
